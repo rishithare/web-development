@@ -1,0 +1,17 @@
+header{
+    height: 80px;
+    background-color: blue;
+}
+li{
+    color: azure;
+    list-style-type: none;
+    padding-left: 50px;
+}
+ul{
+    padding: 20px 20%;
+    margin: 0px;
+    display: flex;
+}
+body{
+    margin: 0px;
+}
